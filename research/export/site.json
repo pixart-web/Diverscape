@@ -1,0 +1,2063 @@
+{
+    "items": {
+        "bubblemaker": {
+            "category": "experiences",
+            "duration": {
+                "unit": "half_day"
+            },
+            "certification": "no",
+            "min_age": 8,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 85,
+                    "type": "fixed",
+                    "rows": [
+                        "exp-1"
+                    ]
+                }
+            ],
+            "notes": "Fonte: «águas confinadas» (PT/ES) vs «in the pool» (EN/DE). Confirmar local (piscina ou águas confinadas naturais).",
+            "conflicts": [
+                "Local da atividade: piscina (EN/DE) ou águas confinadas (PT/ES)."
+            ],
+            "urls": {
+                "en": "/experiences/bubblemaker/",
+                "pt": "/pt/experiencias/bubblemaker/",
+                "de": "/de/erlebnisse/bubblemaker/",
+                "es": "/sp/experiencias/bubblemaker/"
+            },
+            "titles": {
+                "en": "PADI Bubblemaker",
+                "pt": "PADI Bubblemaker",
+                "de": "PADI Bubblemaker",
+                "es": "PADI Bubblemaker"
+            },
+            "image": "group-surface.jpg"
+        },
+        "discover-scuba-diving": {
+            "category": "experiences",
+            "duration": {
+                "unit": "half_day"
+            },
+            "certification": "no",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "shore",
+                    "label": {
+                        "en": "Shore dive",
+                        "pt": "Saída da costa",
+                        "de": "Vom Ufer",
+                        "es": "Salida desde la costa"
+                    },
+                    "price": 105,
+                    "type": "fixed",
+                    "rows": [
+                        "exp-2"
+                    ]
+                },
+                {
+                    "key": "boat",
+                    "label": {
+                        "en": "Boat dive",
+                        "pt": "Saída de barco",
+                        "de": "Vom Boot",
+                        "es": "Salida en barco"
+                    },
+                    "price": 115,
+                    "type": "fixed",
+                    "rows": [
+                        "exp-2"
+                    ]
+                }
+            ],
+            "notes": "Nome na tabela: «Discover Scuba Experience»; nos textos: «PADI Discover Scuba Diving». Usar o nome oficial do programa.",
+            "conflicts": [],
+            "urls": {
+                "en": "/experiences/discover-scuba-diving/",
+                "pt": "/pt/experiencias/batismo-de-mergulho/",
+                "de": "/de/erlebnisse/schnuppertauchen/",
+                "es": "/sp/experiencias/bautismo-de-buceo/"
+            },
+            "titles": {
+                "en": "PADI Discover Scuba Diving",
+                "pt": "PADI Discover Scuba Diving (batismo de mergulho)",
+                "de": "PADI Discover Scuba Diving (Schnuppertauchen)",
+                "es": "PADI Discover Scuba Diving (bautismo de buceo)"
+            },
+            "image": "diver-anemone.jpg"
+        },
+        "scuba-diver": {
+            "category": "courses",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": "yes",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 345,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-1"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/scuba-diver/",
+                "pt": "/pt/cursos/scuba-diver/",
+                "de": "/de/kurse/scuba-diver/",
+                "es": "/sp/cursos/scuba-diver/"
+            },
+            "titles": {
+                "en": "PADI Scuba Diver",
+                "pt": "PADI Scuba Diver",
+                "de": "PADI Scuba Diver",
+                "es": "PADI Scuba Diver"
+            },
+            "image": "group-boat-cliffs.jpg"
+        },
+        "open-water-diver": {
+            "category": "courses",
+            "duration": {
+                "unit": "days",
+                "qty": 4
+            },
+            "certification": "yes",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 575,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-2"
+                    ]
+                }
+            ],
+            "notes": "Texto de origem: «até 18 metros com um parceiro» — manter sujeito a revisão por instrutor.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/open-water-diver/",
+                "pt": "/pt/cursos/open-water-diver/",
+                "de": "/de/kurse/open-water-diver/",
+                "es": "/sp/cursos/open-water-diver/"
+            },
+            "titles": {
+                "en": "PADI Open Water Diver",
+                "pt": "PADI Open Water Diver",
+                "de": "PADI Open Water Diver",
+                "es": "PADI Open Water Diver"
+            },
+            "image": "hero-shore-entry.jpg"
+        },
+        "adventure-diver": {
+            "category": "courses",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 325,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-3"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/adventure-diver/",
+                "pt": "/pt/cursos/adventure-diver/",
+                "de": "/de/kurse/adventure-diver/",
+                "es": "/sp/cursos/adventure-diver/"
+            },
+            "titles": {
+                "en": "PADI Adventure Diver",
+                "pt": "PADI Adventure Diver",
+                "de": "PADI Adventure Diver",
+                "es": "PADI Adventure Diver"
+            },
+            "image": "cave-opening-diver.jpg"
+        },
+        "advanced-open-water": {
+            "category": "courses",
+            "duration": null,
+            "certification": "yes",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "full",
+                    "label": {
+                        "en": "Full course (5 adventure dives)",
+                        "pt": "Curso completo (5 mergulhos de aventura)",
+                        "de": "Kompletter Kurs (5 Abenteuertauchgänge)",
+                        "es": "Curso completo (5 inmersiones de aventura)"
+                    },
+                    "price": 425,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-4"
+                    ]
+                },
+                {
+                    "key": "from-adventure",
+                    "label": {
+                        "en": "Completion for Adventure Divers",
+                        "pt": "Conclusão para Adventure Divers",
+                        "de": "Abschluss für Adventure Diver",
+                        "es": "Finalización para Adventure Divers"
+                    },
+                    "price": 225,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-5"
+                    ],
+                    "duration": {
+                        "unit": "day"
+                    }
+                }
+            ],
+            "notes": "",
+            "conflicts": [
+                "Duração do curso completo: «2 dias» (PT, ES) vs «5 days» (EN, DE). Não confundir 5 mergulhos com 5 dias. Duração ocultada até confirmação."
+            ],
+            "urls": {
+                "en": "/courses/advanced-open-water-diver/",
+                "pt": "/pt/cursos/advanced-open-water-diver/",
+                "de": "/de/kurse/advanced-open-water-diver/",
+                "es": "/sp/cursos/advanced-open-water-diver/"
+            },
+            "titles": {
+                "en": "PADI Advanced Open Water Diver",
+                "pt": "PADI Advanced Open Water Diver",
+                "de": "PADI Advanced Open Water Diver",
+                "es": "PADI Advanced Open Water Diver"
+            },
+            "image": "wreck-diver.jpg"
+        },
+        "rescue-diver": {
+            "category": "courses",
+            "duration": {
+                "unit": "days",
+                "qty": 3
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 435,
+                    "type": "fixed",
+                    "rows": [
+                        "cur-6"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/rescue-diver/",
+                "pt": "/pt/cursos/rescue-diver/",
+                "de": "/de/kurse/rescue-diver/",
+                "es": "/sp/cursos/rescue-diver/"
+            },
+            "titles": {
+                "en": "PADI Rescue Diver",
+                "pt": "PADI Rescue Diver",
+                "de": "PADI Rescue Diver",
+                "es": "PADI Rescue Diver"
+            },
+            "image": "group-boat-cliffs.jpg"
+        },
+        "deep-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 315,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-1"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/deep-diver/",
+                "pt": "/pt/cursos/mergulho-profundo/",
+                "de": "/de/kurse/deep-diver/",
+                "es": "/sp/cursos/buceo-profundo/"
+            },
+            "titles": {
+                "en": "PADI Deep Diver",
+                "pt": "Mergulho Profundo (PADI Deep Diver)",
+                "de": "PADI Deep Diver",
+                "es": "Buceo profundo (PADI Deep Diver)"
+            },
+            "image": "cave-opening-diver.jpg"
+        },
+        "enriched-air-nitrox": {
+            "category": "specialties",
+            "duration": null,
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "no-dives",
+                    "label": {
+                        "en": "Without dives",
+                        "pt": "Sem mergulhos",
+                        "de": "Ohne Tauchgänge",
+                        "es": "Sin inmersiones"
+                    },
+                    "price": 175,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-2"
+                    ]
+                },
+                {
+                    "key": "two-dives",
+                    "label": {
+                        "en": "With 2 dives",
+                        "pt": "Com 2 mergulhos",
+                        "de": "Mit 2 Tauchgängen",
+                        "es": "Con 2 inmersiones"
+                    },
+                    "price": 215,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-2"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [
+                "Duração publicada como «1 dia/2 dias» sem indicar a que variante corresponde cada uma. Ocultada até confirmação."
+            ],
+            "urls": {
+                "en": "/courses/enriched-air-nitrox/",
+                "pt": "/pt/cursos/nitrox/",
+                "de": "/de/kurse/nitrox/",
+                "es": "/sp/cursos/nitrox/"
+            },
+            "titles": {
+                "en": "PADI Enriched Air (Nitrox) Diver",
+                "pt": "Ar Enriquecido Nitrox (PADI Enriched Air Diver)",
+                "de": "PADI Enriched Air (Nitrox) Diver",
+                "es": "Aire enriquecido Nitrox (PADI Enriched Air Diver)"
+            },
+            "image": "sea-fan-reef.jpg"
+        },
+        "peak-performance-buoyancy": {
+            "category": "specialties",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 195,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-3"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/peak-performance-buoyancy/",
+                "pt": "/pt/cursos/flutuabilidade-perfeita/",
+                "de": "/de/kurse/tarierung/",
+                "es": "/sp/cursos/flotabilidad-perfecta/"
+            },
+            "titles": {
+                "en": "PADI Peak Performance Buoyancy",
+                "pt": "Flutuabilidade Perfeita (PADI Peak Performance Buoyancy)",
+                "de": "PADI Peak Performance Buoyancy",
+                "es": "Flotabilidad perfecta (PADI Peak Performance Buoyancy)"
+            },
+            "image": "sea-fan-shell.jpg"
+        },
+        "equipment-specialist": {
+            "category": "specialties",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 175,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-4"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/equipment-specialist/",
+                "pt": "/pt/cursos/especialista-em-equipamento/",
+                "de": "/de/kurse/equipment-specialist/",
+                "es": "/sp/cursos/especialista-en-equipo/"
+            },
+            "titles": {
+                "en": "PADI Equipment Specialist",
+                "pt": "Especialista em Equipamento (PADI Equipment Specialist)",
+                "de": "PADI Equipment Specialist",
+                "es": "Especialista en equipo (PADI Equipment Specialist)"
+            },
+            "image": "dive-centre-building.jpg"
+        },
+        "night-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 275,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-5"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/night-diver/",
+                "pt": "/pt/cursos/mergulho-noturno/",
+                "de": "/de/kurse/nachttauchen/",
+                "es": "/sp/cursos/buceo-nocturno/"
+            },
+            "titles": {
+                "en": "PADI Night Diver",
+                "pt": "Mergulho Noturno (PADI Night Diver)",
+                "de": "PADI Night Diver",
+                "es": "Buceo nocturno (PADI Night Diver)"
+            },
+            "image": "lobster.jpg"
+        },
+        "sidemount-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 345,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-6"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/sidemount-diver/",
+                "pt": "/pt/cursos/sidemount/",
+                "de": "/de/kurse/sidemount/",
+                "es": "/sp/cursos/sidemount/"
+            },
+            "titles": {
+                "en": "PADI Sidemount Diver",
+                "pt": "PADI Sidemount Diver",
+                "de": "PADI Sidemount Diver",
+                "es": "PADI Sidemount Diver"
+            },
+            "image": "cave-diver-light.jpg"
+        },
+        "search-and-recovery": {
+            "category": "specialties",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 315,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-7"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/search-and-recovery/",
+                "pt": "/pt/cursos/busca-e-recuperacao/",
+                "de": "/de/kurse/suchen-und-bergen/",
+                "es": "/sp/cursos/busqueda-y-recuperacion/"
+            },
+            "titles": {
+                "en": "PADI Search and Recovery Diver",
+                "pt": "Busca e Recuperação (PADI Search and Recovery)",
+                "de": "PADI Search and Recovery Diver",
+                "es": "Búsqueda y recuperación (PADI Search and Recovery)"
+            },
+            "image": "hermit-crab.jpg"
+        },
+        "drift-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 170,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-8"
+                    ]
+                }
+            ],
+            "notes": "Só na versão portuguesa («Mergulho em Corrente»). A descrição de origem mistura português e inglês («An exciting way of diving»). Preservado e traduzido; confirmar se continua em oferta.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/drift-diver/",
+                "pt": "/pt/cursos/mergulho-em-corrente/",
+                "de": "/de/kurse/stroemungstauchen/",
+                "es": "/sp/cursos/buceo-en-corriente/"
+            },
+            "titles": {
+                "en": "PADI Drift Diver",
+                "pt": "Mergulho em Corrente (PADI Drift Diver)",
+                "de": "PADI Drift Diver",
+                "es": "Buceo en corriente (PADI Drift Diver)"
+            },
+            "image": "group-boat-cliffs.jpg"
+        },
+        "digital-underwater-photographer": {
+            "category": "specialties",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 235,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-9"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/underwater-photography/",
+                "pt": "/pt/cursos/fotografia-subaquatica/",
+                "de": "/de/kurse/unterwasserfotografie/",
+                "es": "/sp/cursos/fotografia-submarina/"
+            },
+            "titles": {
+                "en": "PADI Digital Underwater Photographer",
+                "pt": "Fotografia Digital Subaquática (PADI Digital Underwater Photographer)",
+                "de": "PADI Digital Underwater Photographer",
+                "es": "Fotografía digital submarina (PADI Digital Underwater Photographer)"
+            },
+            "image": "octopus.jpg"
+        },
+        "emergency-oxygen-provider": {
+            "category": "specialties",
+            "duration": {
+                "unit": "half_day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 175,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-10"
+                    ]
+                }
+            ],
+            "notes": "Duração «meio dia» só na versão inglesa/alemã; PT e ES não indicam duração.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/emergency-oxygen-provider/",
+                "pt": "/pt/cursos/oxigenio-de-emergencia/",
+                "de": "/de/kurse/notfall-sauerstoff/",
+                "es": "/sp/cursos/oxigeno-de-emergencia/"
+            },
+            "titles": {
+                "en": "PADI Emergency Oxygen Provider",
+                "pt": "Administração de Oxigénio de Emergência (PADI Emergency Oxygen Provider)",
+                "de": "PADI Emergency Oxygen Provider",
+                "es": "Administración de oxígeno de emergencia (PADI Emergency Oxygen Provider)"
+            },
+            "image": "team-boat-harbour.jpg"
+        },
+        "wreck-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "days",
+                "qty": 2
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 345,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-11"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/wreck-diver/",
+                "pt": "/pt/cursos/mergulho-em-naufragios/",
+                "de": "/de/kurse/wracktauchen/",
+                "es": "/sp/cursos/buceo-en-pecios/"
+            },
+            "titles": {
+                "en": "PADI Wreck Diver",
+                "pt": "Mergulho em Naufrágios (PADI Wreck Diver)",
+                "de": "PADI Wreck Diver",
+                "es": "Buceo en pecios (PADI Wreck Diver)"
+            },
+            "image": "wreck-diver.jpg"
+        },
+        "boat-diver": {
+            "category": "specialties",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 150,
+                    "type": "fixed",
+                    "rows": [
+                        "esp-12"
+                    ]
+                }
+            ],
+            "notes": "Só na versão portuguesa («Mergulho Embarcado»). Confirmar se continua em oferta.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/boat-diver/",
+                "pt": "/pt/cursos/mergulho-embarcado/",
+                "de": "/de/kurse/bootstauchen/",
+                "es": "/sp/cursos/buceo-desde-barco/"
+            },
+            "titles": {
+                "en": "PADI Boat Diver",
+                "pt": "Mergulho Embarcado (PADI Boat Diver)",
+                "de": "PADI Boat Diver",
+                "es": "Buceo desde barco (PADI Boat Diver)"
+            },
+            "image": "team-boat-harbour.jpg"
+        },
+        "efr-primary-secondary": {
+            "category": "first-aid",
+            "duration": null,
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "primary-secondary",
+                    "label": {
+                        "en": "Primary and Secondary Care",
+                        "pt": "Cuidados Primários e Secundários",
+                        "de": "Primary and Secondary Care",
+                        "es": "Cuidados primarios y secundarios"
+                    },
+                    "price": 165,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-1"
+                    ],
+                    "duration": {
+                        "unit": "day"
+                    }
+                },
+                {
+                    "key": "primary",
+                    "label": {
+                        "en": "Primary Care",
+                        "pt": "Cuidados Primários",
+                        "de": "Primary Care",
+                        "es": "Cuidados primarios"
+                    },
+                    "price": 130,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-2"
+                    ]
+                },
+                {
+                    "key": "secondary",
+                    "label": {
+                        "en": "Secondary Care",
+                        "pt": "Cuidados Secundários",
+                        "de": "Secondary Care",
+                        "es": "Cuidados secundarios"
+                    },
+                    "price": 124,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-3"
+                    ],
+                    "duration": {
+                        "unit": "half_day"
+                    }
+                },
+                {
+                    "key": "primary-aed",
+                    "label": {
+                        "en": "Primary Care and AED",
+                        "pt": "Cuidados Primários e DAE",
+                        "de": "Primary Care und AED",
+                        "es": "Cuidados primarios y DEA"
+                    },
+                    "price": 140,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-5"
+                    ],
+                    "duration": {
+                        "unit": "day"
+                    }
+                }
+            ],
+            "notes": "Na versão espanhola a linha «Cuidados Primários» está em português. Certificação EFR: confirmar emissão do cartão.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/efr-primary-secondary-care/",
+                "pt": "/pt/cursos/primeiros-socorros-efr/",
+                "de": "/de/kurse/erste-hilfe-efr/",
+                "es": "/sp/cursos/primeros-auxilios-efr/"
+            },
+            "titles": {
+                "en": "Emergency First Response — Primary and Secondary Care",
+                "pt": "Emergency First Response — Cuidados Primários e Secundários",
+                "de": "Emergency First Response — Primary and Secondary Care",
+                "es": "Emergency First Response — Cuidados primarios y secundarios"
+            },
+            "image": "team-boat-harbour.jpg"
+        },
+        "efr-care-for-children": {
+            "category": "first-aid",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 224,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-4"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/efr-care-for-children/",
+                "pt": "/pt/cursos/primeiros-socorros-criancas/",
+                "de": "/de/kurse/erste-hilfe-kinder/",
+                "es": "/sp/cursos/primeros-auxilios-ninos/"
+            },
+            "titles": {
+                "en": "Emergency First Response — Care for Children",
+                "pt": "Emergency First Response — Cuidados para Crianças",
+                "de": "Emergency First Response — Care for Children",
+                "es": "Emergency First Response — Cuidados para niños"
+            },
+            "image": "group-surface.jpg"
+        },
+        "efr-instructor": {
+            "category": "first-aid",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 525,
+                    "type": "fixed",
+                    "rows": [
+                        "efr-6"
+                    ]
+                }
+            ],
+            "notes": "Duração «1 dia» para formação de instrutor publicada nas quatro versões; confirmar pré-requisitos com a equipa.",
+            "conflicts": [],
+            "urls": {
+                "en": "/courses/efr-instructor/",
+                "pt": "/pt/cursos/instrutor-efr/",
+                "de": "/de/kurse/efr-instructor/",
+                "es": "/sp/cursos/instructor-efr/"
+            },
+            "titles": {
+                "en": "Emergency First Response Instructor",
+                "pt": "Emergency First Response — Instrutor",
+                "de": "Emergency First Response Instructor",
+                "es": "Emergency First Response — Instructor"
+            },
+            "image": "team-boat-harbour.jpg"
+        },
+        "discover-tec": {
+            "category": "technical",
+            "duration": {
+                "unit": "half_day"
+            },
+            "certification": "no",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-1"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/discover-tec/",
+                "pt": "/pt/mergulho-tecnico/discover-tec/",
+                "de": "/de/technisches-tauchen/discover-tec/",
+                "es": "/sp/buceo-tecnico/discover-tec/"
+            },
+            "titles": {
+                "en": "PADI Discover Tec",
+                "pt": "PADI Discover Tec",
+                "de": "PADI Discover Tec",
+                "es": "PADI Discover Tec"
+            },
+            "image": "cave-diver-light.jpg"
+        },
+        "tec-40": {
+            "category": "technical",
+            "duration": {
+                "unit": "days",
+                "qty": 3
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-2"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-40/",
+                "pt": "/pt/mergulho-tecnico/tec-40/",
+                "de": "/de/technisches-tauchen/tec-40/",
+                "es": "/sp/buceo-tecnico/tec-40/"
+            },
+            "titles": {
+                "en": "PADI Tec 40",
+                "pt": "PADI Tec 40",
+                "de": "PADI Tec 40",
+                "es": "PADI Tec 40"
+            },
+            "image": "cave-opening-diver.jpg"
+        },
+        "tec-45": {
+            "category": "technical",
+            "duration": null,
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "tec-45",
+                    "label": {
+                        "en": "Tec 45",
+                        "pt": "Tec 45",
+                        "de": "Tec 45",
+                        "es": "Tec 45"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-3"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 3
+                    }
+                },
+                {
+                    "key": "tec-45-tmx",
+                    "label": {
+                        "en": "Tec 45 Trimix (TMx)",
+                        "pt": "Tec 45 Trimix (TMx)",
+                        "de": "Tec 45 Trimix (TMx)",
+                        "es": "Tec 45 Trimix (TMx)"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-4"
+                    ],
+                    "duration": {
+                        "unit": "day"
+                    }
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-45/",
+                "pt": "/pt/mergulho-tecnico/tec-45/",
+                "de": "/de/technisches-tauchen/tec-45/",
+                "es": "/sp/buceo-tecnico/tec-45/"
+            },
+            "titles": {
+                "en": "PADI Tec 45 and Tec 45 Trimix",
+                "pt": "PADI Tec 45 e Tec 45 Trimix",
+                "de": "PADI Tec 45 und Tec 45 Trimix",
+                "es": "PADI Tec 45 y Tec 45 Trimix"
+            },
+            "image": "wreck-diver.jpg"
+        },
+        "tec-50": {
+            "category": "technical",
+            "duration": null,
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "tec-50",
+                    "label": {
+                        "en": "Tec 50",
+                        "pt": "Tec 50",
+                        "de": "Tec 50",
+                        "es": "Tec 50"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-5"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 4
+                    }
+                },
+                {
+                    "key": "tec-50-tmx",
+                    "label": {
+                        "en": "Tec 50 Trimix (TMx)",
+                        "pt": "Tec 50 Trimix (TMx)",
+                        "de": "Tec 50 Trimix (TMx)",
+                        "es": "Tec 50 Trimix (TMx)"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-6"
+                    ],
+                    "duration": {
+                        "unit": "day"
+                    }
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-50/",
+                "pt": "/pt/mergulho-tecnico/tec-50/",
+                "de": "/de/technisches-tauchen/tec-50/",
+                "es": "/sp/buceo-tecnico/tec-50/"
+            },
+            "titles": {
+                "en": "PADI Tec 50 and Tec 50 Trimix",
+                "pt": "PADI Tec 50 e Tec 50 Trimix",
+                "de": "PADI Tec 50 und Tec 50 Trimix",
+                "es": "PADI Tec 50 y Tec 50 Trimix"
+            },
+            "image": "wreck-diver.jpg"
+        },
+        "tec-trimix-65": {
+            "category": "technical",
+            "duration": {
+                "unit": "days",
+                "qty": 4
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-7"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-trimix-65/",
+                "pt": "/pt/mergulho-tecnico/tec-trimix-65/",
+                "de": "/de/technisches-tauchen/tec-trimix-65/",
+                "es": "/sp/buceo-tecnico/tec-trimix-65/"
+            },
+            "titles": {
+                "en": "PADI Tec Trimix 65",
+                "pt": "PADI Tec Trimix 65",
+                "de": "PADI Tec Trimix 65",
+                "es": "PADI Tec Trimix 65"
+            },
+            "image": "cave-diver-light.jpg"
+        },
+        "tec-trimix": {
+            "category": "technical",
+            "duration": {
+                "unit": "days",
+                "qty": 4
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-8"
+                    ]
+                }
+            ],
+            "notes": "Texto de origem com linguagem absoluta («sem limite de tempo e sem limite de profundidade»). Não reproduzido; descrição a rever por instrutor TecRec.",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-trimix/",
+                "pt": "/pt/mergulho-tecnico/tec-trimix/",
+                "de": "/de/technisches-tauchen/tec-trimix/",
+                "es": "/sp/buceo-tecnico/tec-trimix/"
+            },
+            "titles": {
+                "en": "PADI Tec Trimix",
+                "pt": "PADI Tec Trimix",
+                "de": "PADI Tec Trimix",
+                "es": "PADI Tec Trimix"
+            },
+            "image": "cave-opening-diver.jpg"
+        },
+        "tec-sidemount": {
+            "category": "technical",
+            "duration": {
+                "unit": "days",
+                "qty": 3
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-9"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/tec-sidemount/",
+                "pt": "/pt/mergulho-tecnico/tec-sidemount/",
+                "de": "/de/technisches-tauchen/tec-sidemount/",
+                "es": "/sp/buceo-tecnico/tec-sidemount/"
+            },
+            "titles": {
+                "en": "PADI Tec Sidemount",
+                "pt": "PADI Tec Sidemount",
+                "de": "PADI Tec Sidemount",
+                "es": "PADI Tec Sidemount"
+            },
+            "image": "cave-diver-light.jpg"
+        },
+        "gas-blender": {
+            "category": "technical",
+            "duration": null,
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "nitrox",
+                    "label": {
+                        "en": "Gas Blender Nitrox",
+                        "pt": "Gas Blender Nitrox",
+                        "de": "Gas Blender Nitrox",
+                        "es": "Gas Blender Nitrox"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-10"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 2
+                    }
+                },
+                {
+                    "key": "trimix",
+                    "label": {
+                        "en": "Gas Blender Trimix",
+                        "pt": "Gas Blender Trimix",
+                        "de": "Gas Blender Trimix",
+                        "es": "Gas Blender Trimix"
+                    },
+                    "price": null,
+                    "type": "on_request",
+                    "rows": [
+                        "tec-11"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 3
+                    }
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/technical-diving/gas-blender/",
+                "pt": "/pt/mergulho-tecnico/gas-blender/",
+                "de": "/de/technisches-tauchen/gas-blender/",
+                "es": "/sp/buceo-tecnico/gas-blender/"
+            },
+            "titles": {
+                "en": "PADI Gas Blender — Nitrox and Trimix",
+                "pt": "PADI Gas Blender — Nitrox e Trimix",
+                "de": "PADI Gas Blender — Nitrox und Trimix",
+                "es": "PADI Gas Blender — Nitrox y Trimix"
+            },
+            "image": "dive-centre-building.jpg"
+        },
+        "boat-dives": {
+            "category": "certified",
+            "duration": null,
+            "certification": "no",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "1-own",
+                    "label": {
+                        "en": "1 boat dive · own equipment",
+                        "pt": "1 mergulho de barco · equipamento próprio",
+                        "de": "1 Bootstauchgang · eigene Ausrüstung",
+                        "es": "1 inmersión en barco · equipo propio"
+                    },
+                    "price": 65,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-1"
+                    ],
+                    "dives": 1,
+                    "equipment": false
+                },
+                {
+                    "key": "1-equip",
+                    "label": {
+                        "en": "1 boat dive · equipment included",
+                        "pt": "1 mergulho de barco · equipamento incluído",
+                        "de": "1 Bootstauchgang · Ausrüstung inklusive",
+                        "es": "1 inmersión en barco · equipo incluido"
+                    },
+                    "price": 75,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-2"
+                    ],
+                    "dives": 1,
+                    "equipment": true
+                },
+                {
+                    "key": "2-own",
+                    "label": {
+                        "en": "2 boat dives · own equipment",
+                        "pt": "2 mergulhos de barco · equipamento próprio",
+                        "de": "2 Bootstauchgänge · eigene Ausrüstung",
+                        "es": "2 inmersiones en barco · equipo propio"
+                    },
+                    "price": 95,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-3"
+                    ],
+                    "duration": {
+                        "unit": "morning"
+                    },
+                    "dives": 2,
+                    "equipment": false
+                },
+                {
+                    "key": "2-equip",
+                    "label": {
+                        "en": "2 boat dives · equipment included",
+                        "pt": "2 mergulhos de barco · equipamento incluído",
+                        "de": "2 Bootstauchgänge · Ausrüstung inklusive",
+                        "es": "2 inmersiones en barco · equipo incluido"
+                    },
+                    "price": 125,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-4"
+                    ],
+                    "duration": {
+                        "unit": "morning"
+                    },
+                    "dives": 2,
+                    "equipment": true
+                },
+                {
+                    "key": "6-own",
+                    "label": {
+                        "en": "6 boat dives · own equipment",
+                        "pt": "6 mergulhos de barco · equipamento próprio",
+                        "de": "6 Bootstauchgänge · eigene Ausrüstung",
+                        "es": "6 inmersiones en barco · equipo propio"
+                    },
+                    "price": 270,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-5"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 3
+                    },
+                    "dives": 6,
+                    "equipment": false
+                },
+                {
+                    "key": "6-equip",
+                    "label": {
+                        "en": "6 boat dives · equipment included",
+                        "pt": "6 mergulhos de barco · equipamento incluído",
+                        "de": "6 Bootstauchgänge · Ausrüstung inklusive",
+                        "es": "6 inmersiones en barco · equipo incluido"
+                    },
+                    "price": 335,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-6"
+                    ],
+                    "duration": {
+                        "unit": "days",
+                        "qty": 3
+                    },
+                    "dives": 6,
+                    "equipment": true
+                },
+                {
+                    "key": "10-own",
+                    "label": {
+                        "en": "10 boat dives · own equipment",
+                        "pt": "10 mergulhos de barco · equipamento próprio",
+                        "de": "10 Bootstauchgänge · eigene Ausrüstung",
+                        "es": "10 inmersiones en barco · equipo propio"
+                    },
+                    "price": 400,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-7"
+                    ],
+                    "dives": 10,
+                    "equipment": false
+                },
+                {
+                    "key": "10-equip",
+                    "label": {
+                        "en": "10 boat dives · equipment included",
+                        "pt": "10 mergulhos de barco · equipamento incluído",
+                        "de": "10 Bootstauchgänge · Ausrüstung inklusive",
+                        "es": "10 inmersiones en barco · equipo incluido"
+                    },
+                    "price": 500,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-8"
+                    ],
+                    "dives": 10,
+                    "equipment": true
+                }
+            ],
+            "notes": "",
+            "conflicts": [
+                "1 mergulho: «Meia Manhã» (PT, ES) vs «Morning» (EN, DE). Duração ocultada.",
+                "10 mergulhos sem equipamento: «5 Días» (ES) vs «3 dias» (PT, EN, DE). 10 mergulhos em 3 dias também merece confirmação. Duração ocultada para ambas as variantes.",
+                "Nota Covid-19 (+5 € em atividades com aluguer de regulador) publicada nas quatro versões. Não aplicada no novo fluxo; decisão comercial pendente."
+            ],
+            "urls": {
+                "en": "/certified-divers/boat-dives/",
+                "pt": "/pt/mergulhadores-certificados/saidas-de-barco/",
+                "de": "/de/brevetierte-taucher/bootstauchgaenge/",
+                "es": "/sp/buceadores-certificados/salidas-en-barco/"
+            },
+            "titles": {
+                "en": "Boat dives for certified divers",
+                "pt": "Saídas de barco para mergulhadores certificados",
+                "de": "Bootstauchgänge für brevetierte Taucher",
+                "es": "Salidas en barco para buceadores certificados"
+            },
+            "image": "group-boat-cliffs.jpg"
+        },
+        "equipment-rental": {
+            "category": "certified",
+            "duration": null,
+            "certification": "no",
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "scuba",
+                    "label": {
+                        "en": "Diving equipment · 1 day",
+                        "pt": "Equipamento de mergulho · 1 dia",
+                        "de": "Tauchausrüstung · 1 Tag",
+                        "es": "Equipo de buceo · 1 día"
+                    },
+                    "price": 40,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-9"
+                    ]
+                },
+                {
+                    "key": "snorkel",
+                    "label": {
+                        "en": "Snorkelling equipment · 1 day",
+                        "pt": "Equipamento de snorkel · 1 dia",
+                        "de": "Schnorchelausrüstung · 1 Tag",
+                        "es": "Equipo de snorkel · 1 día"
+                    },
+                    "price": 40,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-10"
+                    ]
+                }
+            ],
+            "notes": "Aluguer de snorkel é apenas aluguer de equipamento — não é uma excursão guiada. A meta descrição EN antiga refere «snorkeling tours»: não reproduzido. Aluguer de mergulho sem duração na versão EN/DE; «1 dia» em PT/ES.",
+            "conflicts": [],
+            "urls": {
+                "en": "/certified-divers/equipment-rental/",
+                "pt": "/pt/mergulhadores-certificados/aluguer-de-equipamento/",
+                "de": "/de/brevetierte-taucher/ausruestungsverleih/",
+                "es": "/sp/buceadores-certificados/alquiler-de-equipo/"
+            },
+            "titles": {
+                "en": "Equipment rental",
+                "pt": "Aluguer de equipamento",
+                "de": "Ausrüstungsverleih",
+                "es": "Alquiler de equipo"
+            },
+            "image": "dive-centre-building.jpg"
+        },
+        "scuba-review": {
+            "category": "certified",
+            "duration": {
+                "unit": "half_day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 55,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-11"
+                    ]
+                }
+            ],
+            "notes": "",
+            "conflicts": [],
+            "urls": {
+                "en": "/certified-divers/scuba-review/",
+                "pt": "/pt/mergulhadores-certificados/refrescamento/",
+                "de": "/de/brevetierte-taucher/scuba-review/",
+                "es": "/sp/buceadores-certificados/repaso-de-habilidades/"
+            },
+            "titles": {
+                "en": "Scuba Review (skills refresher)",
+                "pt": "Refrescamento de habilidades (Scuba Review)",
+                "de": "Scuba Review (Auffrischung)",
+                "es": "Repaso de habilidades (Scuba Review)"
+            },
+            "image": "hero-shore-entry.jpg"
+        },
+        "reactivate": {
+            "category": "certified",
+            "duration": {
+                "unit": "day"
+            },
+            "certification": null,
+            "min_age": null,
+            "status": "source",
+            "variants": [
+                {
+                    "key": "standard",
+                    "label": null,
+                    "price": 115,
+                    "type": "fixed",
+                    "rows": [
+                        "sai-12"
+                    ]
+                }
+            ],
+            "notes": "PADI ReActivate inclui normalmente atualização de cartão; não afirmado no site atual — confirmar antes de mencionar.",
+            "conflicts": [],
+            "urls": {
+                "en": "/certified-divers/reactivate/",
+                "pt": "/pt/mergulhadores-certificados/reactivate/",
+                "de": "/de/brevetierte-taucher/reactivate/",
+                "es": "/sp/buceadores-certificados/reactivate/"
+            },
+            "titles": {
+                "en": "PADI ReActivate",
+                "pt": "PADI ReActivate",
+                "de": "PADI ReActivate",
+                "es": "PADI ReActivate"
+            },
+            "image": "group-surface.jpg"
+        }
+    },
+    "pages": {
+        "home": {
+            "en": [
+                "/",
+                "Diving in Sagres"
+            ],
+            "pt": [
+                "/pt/",
+                "Mergulho em Sagres"
+            ],
+            "de": [
+                "/de/",
+                "Tauchen in Sagres"
+            ],
+            "es": [
+                "/sp/",
+                "Buceo en Sagres"
+            ]
+        },
+        "experiences": {
+            "en": [
+                "/experiences/",
+                "Experiences"
+            ],
+            "pt": [
+                "/pt/experiencias/",
+                "Experiências"
+            ],
+            "de": [
+                "/de/erlebnisse/",
+                "Erlebnisse"
+            ],
+            "es": [
+                "/sp/experiencias/",
+                "Experiencias"
+            ]
+        },
+        "courses": {
+            "en": [
+                "/courses/",
+                "Courses"
+            ],
+            "pt": [
+                "/pt/cursos/",
+                "Cursos"
+            ],
+            "de": [
+                "/de/kurse/",
+                "Kurse"
+            ],
+            "es": [
+                "/sp/cursos/",
+                "Cursos"
+            ]
+        },
+        "certified-divers": {
+            "en": [
+                "/certified-divers/",
+                "Certified divers"
+            ],
+            "pt": [
+                "/pt/mergulhadores-certificados/",
+                "Mergulhadores certificados"
+            ],
+            "de": [
+                "/de/brevetierte-taucher/",
+                "Brevetierte Taucher"
+            ],
+            "es": [
+                "/sp/buceadores-certificados/",
+                "Buceadores certificados"
+            ]
+        },
+        "technical-diving": {
+            "en": [
+                "/technical-diving/",
+                "Technical diving"
+            ],
+            "pt": [
+                "/pt/mergulho-tecnico/",
+                "Mergulho técnico"
+            ],
+            "de": [
+                "/de/technisches-tauchen/",
+                "Technisches Tauchen"
+            ],
+            "es": [
+                "/sp/buceo-tecnico/",
+                "Buceo técnico"
+            ]
+        },
+        "prices": {
+            "en": [
+                "/prices/",
+                "Prices"
+            ],
+            "pt": [
+                "/pt/precos/",
+                "Preços"
+            ],
+            "de": [
+                "/de/preise/",
+                "Preise"
+            ],
+            "es": [
+                "/sp/precios/",
+                "Precios"
+            ]
+        },
+        "equipment": {
+            "en": [
+                "/equipment/",
+                "Equipment"
+            ],
+            "pt": [
+                "/pt/equipamento/",
+                "Equipamento"
+            ],
+            "de": [
+                "/de/ausruestung/",
+                "Ausrüstung"
+            ],
+            "es": [
+                "/sp/equipo/",
+                "Equipo"
+            ]
+        },
+        "discover-sagres": {
+            "en": [
+                "/discover-sagres/",
+                "Diving in Sagres"
+            ],
+            "pt": [
+                "/pt/mergulhar-em-sagres/",
+                "Mergulhar em Sagres"
+            ],
+            "de": [
+                "/de/tauchen-in-sagres/",
+                "Tauchen in Sagres"
+            ],
+            "es": [
+                "/sp/bucear-en-sagres/",
+                "Bucear en Sagres"
+            ]
+        },
+        "about": {
+            "en": [
+                "/about/",
+                "About us"
+            ],
+            "pt": [
+                "/pt/sobre-nos/",
+                "Sobre nós"
+            ],
+            "de": [
+                "/de/ueber-uns/",
+                "Über uns"
+            ],
+            "es": [
+                "/sp/sobre-nosotros/",
+                "Sobre nosotros"
+            ]
+        },
+        "gallery": {
+            "en": [
+                "/gallery/",
+                "Gallery and reviews"
+            ],
+            "pt": [
+                "/pt/galeria/",
+                "Galeria e avaliações"
+            ],
+            "de": [
+                "/de/galerie/",
+                "Galerie und Bewertungen"
+            ],
+            "es": [
+                "/sp/galeria/",
+                "Galería y opiniones"
+            ]
+        },
+        "contact": {
+            "en": [
+                "/contact/",
+                "Plan your dive"
+            ],
+            "pt": [
+                "/pt/contactos/",
+                "Planeie o seu mergulho"
+            ],
+            "de": [
+                "/de/kontakt/",
+                "Tauchgang planen"
+            ],
+            "es": [
+                "/sp/contacto/",
+                "Planifique su inmersión"
+            ]
+        },
+        "faq": {
+            "en": [
+                "/faq/",
+                "Frequently asked questions"
+            ],
+            "pt": [
+                "/pt/perguntas-frequentes/",
+                "Perguntas frequentes"
+            ],
+            "de": [
+                "/de/haeufige-fragen/",
+                "Häufige Fragen"
+            ],
+            "es": [
+                "/sp/preguntas-frecuentes/",
+                "Preguntas frecuentes"
+            ]
+        },
+        "privacy": {
+            "en": [
+                "/privacy/",
+                "Privacy policy"
+            ],
+            "pt": [
+                "/pt/privacidade/",
+                "Política de privacidade"
+            ],
+            "de": [
+                "/de/datenschutz/",
+                "Datenschutzerklärung"
+            ],
+            "es": [
+                "/sp/privacidad/",
+                "Política de privacidad"
+            ]
+        },
+        "cookies": {
+            "en": [
+                "/cookies/",
+                "Cookies"
+            ],
+            "pt": [
+                "/pt/cookies/",
+                "Cookies"
+            ],
+            "de": [
+                "/de/cookies/",
+                "Cookies"
+            ],
+            "es": [
+                "/sp/cookies/",
+                "Cookies"
+            ]
+        },
+        "request-terms": {
+            "en": [
+                "/request-conditions/",
+                "Request conditions"
+            ],
+            "pt": [
+                "/pt/condicoes-do-pedido/",
+                "Condições do pedido"
+            ],
+            "de": [
+                "/de/anfragebedingungen/",
+                "Anfragebedingungen"
+            ],
+            "es": [
+                "/sp/condiciones-de-solicitud/",
+                "Condiciones de la solicitud"
+            ]
+        }
+    },
+    "media": [
+        {
+            "key": "scorpionfish.jpg",
+            "source": "https://diverscape.net/Extensions/Images/sto.jpg — fotografia publicada no site atual da DiversCape (alt original «stonefish»)",
+            "gallery": 6,
+            "review": "O site atual chama-lhe «stonefish». Aparenta ser um peixe-escorpião; confirmar a identificação antes de nomear.",
+            "w": 1357,
+            "h": 768,
+            "file": "scorpionfish.webp",
+            "sizes": 6,
+            "alt_pt": "Um peixe vermelho, bem camuflado, pousado na rocha"
+        },
+        {
+            "key": "sagres-islets-panorama.jpg",
+            "source": "https://diverscape.net/Extensions/Images/island.jpg — fotografia publicada no site atual da DiversCape (panorâmica 3888×845)",
+            "gallery": 18,
+            "review": "Possivelmente Ilhas do Martinhal (referidas na versão alemã). Confirmar antes de nomear.",
+            "w": 2400,
+            "h": 522,
+            "file": "sagres-islets-panorama.webp",
+            "sizes": 8,
+            "alt_pt": "Ilhéus rochosos baixos num mar calmo, junto à costa"
+        },
+        {
+            "key": "dive-centre-map-wall.jpg",
+            "source": "https://diverscape.net/Extensions/Images/catwall.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 19,
+            "review": "Confirmar se a fotografia foi tirada no centro e o que o mapa representa.",
+            "w": 546,
+            "h": 818,
+            "file": "dive-centre-map-wall.webp",
+            "sizes": 4,
+            "alt_pt": "Um gato sentado em frente a um mapa desenhado numa parede de madeira"
+        },
+        {
+            "key": "sea-fan-reef.jpg",
+            "source": "https://diverscape.net/Extensions/Images/coral.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 16,
+            "review": "",
+            "w": 1920,
+            "h": 1080,
+            "file": "sea-fan-reef.webp",
+            "sizes": 7,
+            "alt_pt": "Uma gorgónia amarela num fundo rochoso"
+        },
+        {
+            "key": "sea-fan-shell.jpg",
+            "source": "https://diverscape.net/Extensions/Images/kr.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 17,
+            "review": "",
+            "w": 1377,
+            "h": 768,
+            "file": "sea-fan-shell.webp",
+            "sizes": 6,
+            "alt_pt": "Uma pequena concha com padrões pousada nos ramos de uma gorgónia"
+        },
+        {
+            "key": "sea-slug-yellow.jpg",
+            "source": "https://diverscape.net/Extensions/Images/nudi.JPG — fotografia publicada no site atual da DiversCape",
+            "gallery": 7,
+            "review": "Espécie não identificada (ficheiro nudi.JPG).",
+            "w": 2048,
+            "h": 1536,
+            "file": "sea-slug-yellow.webp",
+            "sizes": 7,
+            "alt_pt": "Uma lesma-do-mar amarela sobre uma rocha coberta de vida"
+        },
+        {
+            "key": "group-surface.jpg",
+            "source": "https://diverscape.net/Extensions/Images/group.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 14,
+            "review": "",
+            "w": 2400,
+            "h": 1606,
+            "file": "group-surface.webp",
+            "sizes": 8,
+            "alt_pt": "Cinco mergulhadores acenam à câmara em água turquesa calma"
+        },
+        {
+            "key": "cave-opening-diver.jpg",
+            "source": "https://diverscape.net/Extensions/Images/dois.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 8,
+            "review": "",
+            "w": 960,
+            "h": 540,
+            "file": "cave-opening-diver.webp",
+            "sizes": 5,
+            "alt_pt": "A silhueta de um mergulhador contra a luz azul da abertura de uma gruta"
+        },
+        {
+            "key": "team-boat-harbour.jpg",
+            "source": "https://diverscape.net/Extensions/Images/GOPRO3.png — fotografia publicada no site atual da DiversCape (convertida de PNG 4088×2725)",
+            "gallery": 13,
+            "review": "Não identificar estas pessoas como equipa sem confirmação e autorização de imagem.",
+            "w": 2400,
+            "h": 1600,
+            "file": "team-boat-harbour.webp",
+            "sizes": 8,
+            "alt_pt": "Seis pessoas de fato de mergulho posam num barco laranja no porto"
+        },
+        {
+            "key": "cave-diver-light.jpg",
+            "source": "https://diverscape.net/Extensions/Images/cave.jpg — fotografia publicada no site atual da DiversCape (alt original «Group divers», não corresponde à imagem)",
+            "gallery": 4,
+            "review": "",
+            "w": 960,
+            "h": 540,
+            "file": "cave-diver-light.webp",
+            "sizes": 5,
+            "alt_pt": "Um mergulhador ilumina as paredes de uma gruta subaquática"
+        },
+        {
+            "key": "hermit-crab.jpg",
+            "source": "https://diverscape.net/Extensions/Images/hermitkrab.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 5,
+            "review": "",
+            "w": 960,
+            "h": 540,
+            "file": "hermit-crab.webp",
+            "sizes": 5,
+            "alt_pt": "Um caranguejo-eremita numa concha coberta de vida, sobre uma rocha"
+        },
+        {
+            "key": "dive-centre-building.jpg",
+            "source": "https://diverscape.net/Extensions/Images/divecenter.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 15,
+            "review": "",
+            "w": 2400,
+            "h": 1600,
+            "file": "dive-centre-building.webp",
+            "sizes": 8,
+            "alt_pt": "O edifício do centro de mergulho DiversCape, com fatos a secar à porta, junto à falésia"
+        },
+        {
+            "key": "lobster.jpg",
+            "source": "https://diverscape.net/Extensions/Images/krb.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 3,
+            "review": "Confirmar designação (lavagante) com a equipa.",
+            "w": 2400,
+            "h": 1800,
+            "file": "lobster.webp",
+            "sizes": 8,
+            "alt_pt": "Um lavagante de grandes pinças numa fenda escura"
+        },
+        {
+            "key": "sea-slug-white.jpg",
+            "source": "https://diverscape.net/Extensions/Images/white.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 2,
+            "review": "Espécie não identificada (ficheiro white.jpg, alt original «Nudibranch»).",
+            "w": 1366,
+            "h": 780,
+            "file": "sea-slug-white.webp",
+            "sizes": 6,
+            "alt_pt": "Uma pequena lesma-do-mar branca e laranja sobre algas verdes"
+        },
+        {
+            "key": "wreck-diver.jpg",
+            "source": "https://diverscape.net/Extensions/Images/guy.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 9,
+            "review": "Confirmar nome e localização do naufrágio antes de o mencionar.",
+            "w": 2400,
+            "h": 1800,
+            "file": "wreck-diver.webp",
+            "sizes": 8,
+            "alt_pt": "Um mergulhador com lanterna percorre a estrutura de um naufrágio"
+        },
+        {
+            "key": "group-boat-cliffs.jpg",
+            "source": "https://diverscape.net/Extensions/Images/Groupe.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 10,
+            "review": "",
+            "w": 2400,
+            "h": 1800,
+            "file": "group-boat-cliffs.webp",
+            "sizes": 8,
+            "alt_pt": "Um grupo sorridente de mergulhadores de fato no barco, por baixo das falésias"
+        },
+        {
+            "key": "octopus.jpg",
+            "source": "https://diverscape.net/Extensions/Images/octo.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 1,
+            "review": "",
+            "w": 2400,
+            "h": 1576,
+            "file": "octopus.webp",
+            "sizes": 8,
+            "alt_pt": "Um polvo entre rochas e seixos"
+        },
+        {
+            "key": "hero-shore-entry.jpg",
+            "source": "https://diverscape.net/Extensions/Images/Poster.jpg — fotografia publicada no site atual da DiversCape (imagem principal do site atual)",
+            "gallery": 12,
+            "review": "",
+            "w": 2400,
+            "h": 1308,
+            "file": "hero-shore-entry.webp",
+            "sizes": 8,
+            "alt_pt": "Dois mergulhadores equipados sorriem um para o outro em águas turquesa pouco profundas"
+        },
+        {
+            "key": "logo-diverscape.png",
+            "source": "https://diverscape.net/Extensions/Images/logo.png — fotografia publicada no site atual da DiversCape (logótipo original, 719×557, fundo transparente)",
+            "gallery": 0,
+            "review": "",
+            "w": 719,
+            "h": 557,
+            "file": "logo-diverscape.png",
+            "sizes": 4,
+            "alt_pt": "DiversCape — Sagres, Portugal"
+        },
+        {
+            "key": "padi-logo.png",
+            "source": "https://diverscape.net/Extensions/Images/Padi-Logo.png — fotografia publicada no site atual da DiversCape — marca de terceiros; confirmar estatuto de membro antes do lançamento",
+            "gallery": 0,
+            "review": "",
+            "w": 200,
+            "h": 165,
+            "file": "padi-logo.png",
+            "sizes": 1,
+            "alt_pt": "PADI"
+        },
+        {
+            "key": "padi-tecrec-logo.png",
+            "source": "https://diverscape.net/Extensions/Images/PADI-TecRec-Logo-Black-Hires.png — fotografia publicada no site atual da DiversCape — marca de terceiros; confirmar estatuto antes do lançamento",
+            "gallery": 0,
+            "review": "",
+            "w": 1381,
+            "h": 481,
+            "file": "padi-tecrec-logo.png",
+            "sizes": 6,
+            "alt_pt": "PADI TecRec"
+        },
+        {
+            "key": "diver-anemone.jpg",
+            "source": "https://diverscape.net/Extensions/Images/explore.jpg — fotografia publicada no site atual da DiversCape",
+            "gallery": 11,
+            "review": "",
+            "w": 2400,
+            "h": 1800,
+            "file": "diver-anemone.webp",
+            "sizes": 8,
+            "alt_pt": "Um mergulhador observa de perto uma anémona junto a uma rocha coberta de esponjas vermelhas"
+        }
+    ]
+}

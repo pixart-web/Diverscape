@@ -1,0 +1,11 @@
+.env
+.credentials.local
+dist/
+tools/node_modules/
+tools/test-results/
+tools/playwright-report/
+research/raw/
+research/media-original/
+research/__pycache__/
+.DS_Store
+*.log

@@ -1,0 +1,14 @@
+{
+  "name": "diverscape-tools",
+  "private": true,
+  "description": "Ferramentas locais: testes end-to-end, verificação do modo demonstração e capturas.",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "screenshots": "node screenshots.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.0",
+    "@axe-core/playwright": "4.10.2"
+  }
+}

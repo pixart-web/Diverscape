@@ -1,0 +1,65 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": false,
+		"layout": { "contentSize": "760px", "wideSize": "1240px" },
+		"color": {
+			"defaultPalette": false,
+			"defaultGradients": false,
+			"defaultDuotone": false,
+			"custom": false,
+			"customGradient": false,
+			"palette": [
+				{ "slug": "deep", "name": "Azul profundo", "color": "#062B3A" },
+				{ "slug": "ocean", "name": "Azul oceânico", "color": "#075D78" },
+				{ "slug": "turquoise", "name": "Turquesa (destaque)", "color": "#20B8CF" },
+				{ "slug": "foam", "name": "Branco espuma", "color": "#F5FAF9" },
+				{ "slug": "sand", "name": "Areia suave", "color": "#E9E3D6" },
+				{ "slug": "white", "name": "Branco", "color": "#FFFFFF" }
+			]
+		},
+		"typography": {
+			"customFontSize": false,
+			"defaultFontSizes": false,
+			"dropCap": false,
+			"fontFamilies": [
+				{
+					"slug": "heading",
+					"name": "Manrope",
+					"fontFamily": "Manrope, \"Segoe UI\", system-ui, sans-serif",
+					"fontFace": [
+						{ "fontFamily": "Manrope", "fontWeight": "200 800", "fontStyle": "normal", "fontDisplay": "swap", "src": [ "file:./assets/fonts/manrope-latin-wght-normal.woff2" ] }
+					]
+				},
+				{
+					"slug": "body",
+					"name": "Inter",
+					"fontFamily": "Inter, \"Segoe UI\", system-ui, sans-serif",
+					"fontFace": [
+						{ "fontFamily": "Inter", "fontWeight": "100 900", "fontStyle": "normal", "fontDisplay": "swap", "src": [ "file:./assets/fonts/inter-latin-wght-normal.woff2" ] }
+					]
+				}
+			],
+			"fontSizes": [
+				{ "slug": "small", "name": "Pequeno", "size": "0.9375rem" },
+				{ "slug": "medium", "name": "Normal", "size": "1.0625rem" },
+				{ "slug": "large", "name": "Destaque", "size": "1.3rem" },
+				{ "slug": "x-large", "name": "Título", "size": "2rem" }
+			]
+		},
+		"spacing": { "units": [ "px", "rem", "%", "vw" ] },
+		"blocks": {
+			"core/paragraph": { "color": { "text": false, "background": false } }
+		}
+	},
+	"styles": {
+		"color": { "background": "#F5FAF9", "text": "#062B3A" },
+		"typography": { "fontFamily": "var(--wp--preset--font-family--body)", "fontSize": "1.0625rem", "lineHeight": "1.6" },
+		"elements": {
+			"heading": { "typography": { "fontFamily": "var(--wp--preset--font-family--heading)", "fontWeight": "800", "lineHeight": "1.1" } },
+			"link": { "color": { "text": "#075D78" } }
+		}
+	},
+	"patterns": []
+}
